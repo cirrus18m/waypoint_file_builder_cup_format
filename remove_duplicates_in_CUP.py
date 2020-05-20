@@ -1,4 +1,4 @@
-from easygui import fileopenbox #, filesavebox, msgbox, ccbox
+from easygui import fileopenbox #, filesavebox, msgbox, # ccbox
 import os
 from copy import copy
 
